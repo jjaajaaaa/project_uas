@@ -8,7 +8,7 @@
 <body>
     <div class="block mb-3 p-2 bg-slate-300">
         <a href="../Mahasiswa/index.php" class="block ml-3">Data Mahasiswa</a>
-        <a href="/form_jurusan.php" class="block ml-3">Data Jurusan</a>
+        <a href="../form_jurusan.php" class="block ml-3">Data Jurusan</a>
         <a href="../Dosen/form_dosen.php" class="block ml-3">Data Dosen</a>
         <a href="../Pembayaran/login_pembayaran.php" class="block ml-3">Pembayaran</a>
     </div>
